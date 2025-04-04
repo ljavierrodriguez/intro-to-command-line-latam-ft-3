@@ -36,5 +36,11 @@ git add *
 
 ```shell
 git commit
+git commit -m "Mensaje Descriptivo de los cambios"
+```
 
+### Fusionar ramas (merge)
+
+```shell
+git merge <branch>
 ```
