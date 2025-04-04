@@ -44,3 +44,33 @@ git commit -m "Mensaje Descriptivo de los cambios"
 ```shell
 git merge <branch>
 ```
+
+### Bajar cambios repositorio remoto
+
+```shell
+git pull <remote> <branch>
+```
+
+### Subir cambios repositorio remoto
+
+```shell
+git push <remote> <branch>
+```
+
+### Añadir repositorio remoto
+
+```shell
+git remote add <name> <url>
+```
+
+### Modificar repositorio remoto
+
+```shell
+git remote set-url <name> <url>
+```
+
+### Eliminar vinculo repositorio remoto
+
+```shell
+git remote rm <name>
+```
